@@ -30,8 +30,8 @@ class App extends React.Component{
         <Header
         headerExpanded={this.state.headerExpanded}
          headTitle={this.state.headerText} />
-        <SearchBox onInputChange={this.handleInputChange}/> 
-
+        <SearchBox onInputChange={this.handleInputChange}/>   
+          {/* Functions can also be passed as props. */}
         <ResultContainer suggestedNames={ this.state.suggestedNames}/>
       </div>
     );
