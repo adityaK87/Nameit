@@ -14,7 +14,7 @@ Do you find it difficult to name your projects or ventures? Fear not! Check out 
 ### 🚀 View Live Demo
 <img src="https://img.shields.io/badge/website-up-greene" />
 
-<pre><center><a href="https://name-it-any.herokuapp.com/"><b>name-it-any.herokuapp.com/</b></a></center></pre>
+<pre><center><a href="https://adityapal87.github.io/Nameit/"><b>adityapal87.github.io/Nameit</b></a></center></pre>
 
 ### 👨‍💻 Tech Stack Used
 
